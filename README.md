@@ -20,10 +20,10 @@ The system uses user input to control a DC motor via a motor driver and external
 - DC Power Supply  
 
 ### Components
-- Potentiometer – 1 × 2 kΩ  
-- Resistor – 1 × 10 kΩ  
+- Potentiometer – 1× 2 kΩ  
+- Resistor – 1× 10 kΩ  
 - Push-button  
-- Connecting wires  
+- Jumper wires  
 
 ## Hardware Setup
 
@@ -41,5 +41,5 @@ Refer to the included image for the physical hardware layout.
 
 ## Notes
 
-- This project requires the specified hardware to function correctly.
+- This project requires the specified hardware setup to function.
 - Circuit diagram provided as part of the E.D.I. laboratory materials. Used here for documentation purposes only.
